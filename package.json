@@ -1,0 +1,19 @@
+{
+  "name": "meatgrinder",
+  "version": "0.2",
+  "description": "submit your art to be featured in the meatgrinder zine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brookeparsons/meatgrinder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brookeparsons/meatgrinder/issues"
+  },
+  "homepage": "https://github.com/brookeparsons/meatgrinder#readme"
+}
